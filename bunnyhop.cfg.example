@@ -1,0 +1,12 @@
+{
+	"host": "localhost",
+	"login": "guest",
+	"password": "guest",
+	"exchange": "testexchange",
+	"queue": "testqueue",
+	"routingKey": "test.route",
+	"restEndpoint" : "http://localhost:8080/dosomething",
+	"retryCount": "5",
+	"retryDelay": "1000",
+	"retrySequence": "growth"  	
+}
