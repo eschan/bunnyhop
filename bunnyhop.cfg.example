@@ -3,6 +3,7 @@
 	"login": "guest",
 	"password": "guest",
 	"exchange": "testexchange",
+	"exchangeType": "topic",
 	"queue": "testqueue",
 	"routingKey": "test.route",
 	"restEndpoint" : "http://localhost:8080/dosomething",
