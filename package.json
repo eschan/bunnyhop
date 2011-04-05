@@ -1,0 +1,17 @@
+{
+	"name": "bunnyhop",
+	"description": "RabbitMQ to HTTP Bridge, with retry and poison message handling",
+	"version": "0.0.1",
+	"author": "Edward Chan <wado03@hotmail.com>",
+	"main": "app.js",
+	"engines": { "node": ">= 0.4.5" },
+	"licences": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-licence.php"
+		}
+	],
+	"dependencies" {
+		"amqp": ">=0.0.2"
+	}
+}
